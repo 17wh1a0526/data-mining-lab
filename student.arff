@@ -1,0 +1,11 @@
+@relation student
+@attribute rollno numeric
+@attribute name string
+@attribute dept {CSE,ECE,EEE,IT}
+@attribute class {Pass, Fail}
+@attribute age numeric
+
+@data
+17526,Afrah,CSE,Pass,20
+17577,Anu,ECE,Pass,21
+18599,Ria,IT,Fail,19
